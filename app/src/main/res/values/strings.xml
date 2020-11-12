@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Transformers</string>
+    <string name="title_home">Transformers</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_landing_view">Aequilibrium Assessment</string>
+    <string name="button_start">Start</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="text_add_new">Add New</string>
+    <string name="loading_information">Loading information...</string>
+</resources>
